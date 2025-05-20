@@ -44,7 +44,6 @@ async function obtenerIdCalle(nombreCalle) {
 
 // Ejemplo de uso:
 obtenerIdCalle('pellegri');
-// obtenerIdCalle('LIVIO DANTE PORTA');
-// obtenerIdCalle('COMUNIDAD FORAL DE NAVARRA');
+
 
 module.exports = obtenerIdCalle;
