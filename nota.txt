@@ -1,1 +1,21 @@
 correr con node consultarCoordenadas.js
+
+apis:
+
+----------------------------------------
+busqueda por nombre de calle:
+https://ws.rosario.gob.ar/ubicaciones/public/geojson/ubicaciones/all/all/mendoza
+
+----------------------------------------
+Calle y altura
+https://ws.rosario.gob.ar/ubicaciones/public/direccion?idCalle=67550&altura=3598&bis=false
+
+----------------------------------------
+Nomeclador de calles:
+https://datosabiertos.rosario.gob.ar/api/1/datastore/query/33e84ab8-8443-5294-9341-cc28eea7e050
+
+--------------------------------------------
+Eje de Calles: (No usar)
+https://datosabiertos.rosario.gob.ar/api/1/datastore/query/abe2d9d9-3b88-5034-9d85-71be31cec1b5
+
+----------------------------------------------
